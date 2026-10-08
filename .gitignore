@@ -1,0 +1,12 @@
+*.o
+*.d
+*.axf
+*.htm
+*.lnp
+*.crf
+*.dep
+*.bak
+*.uvguix.*
+Objects/
+Listings/
+DebugConfig/
